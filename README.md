@@ -1,0 +1,1 @@
+quod_libet_import_itunes_ratings
